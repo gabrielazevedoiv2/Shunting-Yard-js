@@ -1,0 +1,19 @@
+{
+  "name": "shunting-yard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielazevedoiv2/Shunting-Yard-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielazevedoiv2/Shunting-Yard-js/issues"
+  },
+  "homepage": "https://github.com/gabrielazevedoiv2/Shunting-Yard-js#readme"
+}
