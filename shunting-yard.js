@@ -1,7 +1,7 @@
 const operators = require('./operators')
 
 function ShuntingYard(expr) {
-    var list = Array.from(expr.split(' ').join(''));
+    var list = Array.from(expr.split(' ').join('').match(/[\d\.]+|\D+/g));
     
     var operatorStack = [];
     var outputQueue = [];
